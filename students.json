@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Saad Rimeh",
+    "Phone_Number": "+963943366764",
+    "Student_ID": "001",
+    "registeredCourses": "C++",
+    "totalPrice": 99,
+    "firstPayment": 80,
+    "remainingBalance": 19,
+    "paymentDate": "2025-01-15"
+  }
+]
