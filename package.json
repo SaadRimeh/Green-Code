@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "commander": "^13.0.0",
+    "inquirer": "^12.3.2",
+    "xlsx": "^0.18.5"
+  },
+  "name": "greencode",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Institute System regesteration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saad Rimeh",
+  "license": "ISC"
+}
