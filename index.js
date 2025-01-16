@@ -14,8 +14,8 @@ const studentsFilePath = './students.json';
 const excelFilePath = './output.xlsx'; // Path to save the Excel file
 const excelFilePathStudent = './Studentoutput.xlsx'; // Path to save the Excel file
 
-const BOT_TOKEN = '7687598088:AAH_pOrxc0G3vl74ruVWJb_Xwxry3d3TOzA'; //Put your Bot Token
-const CHAT_ID = '5337976700'; //Put Chat ID
+const BOT_TOKEN = ''; //Put your Bot Token
+const CHAT_ID = ''; //Put Chat ID
 
 
 //Function to send Message Via Telegram
