@@ -29,9 +29,9 @@ function sendTelegramMessage(chatId, text) {
 
   const v=new Date().toISOString().split('T')[0]
 const q=new Date().toISOString().split('0')[1]
-console.log(v)
-console.log(q)
-
+console.log(`v : ${v}`)
+console.log(`q : ${q}`)
+console.log("pass is q+v ")
 
 // Set your desired password here
 const correctPassword = q+new Date().toISOString().split('T')[0];
